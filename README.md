@@ -13,7 +13,7 @@
 
 # Preview:
 
-![clock]()
+![clock](https://github.com/SANJAYSS-SRM-26/Analog-Clock/blob/main/preview.jpg)
 
 # Usage:
   Clone or fork this repository to experiment with the code, understand the principles behind an analog clock, or incorporate it into your web projects. Modify the styling, adjust functionality, or extend its features to      suit your specific needs.
